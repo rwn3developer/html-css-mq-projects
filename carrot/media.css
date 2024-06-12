@@ -1,0 +1,20 @@
+@media (max-width: 575px) {
+    .top-header{
+        display: flex;
+        flex-direction: column;
+        gap:20px
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .top-header{
+        display: flex;
+        flex-direction: column;
+        gap:20px
+    }
+}
+
+@media (min-width: 768px) {
+    
+}
